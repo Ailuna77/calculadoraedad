@@ -29,7 +29,7 @@ Este proyecto consiste en un repaso de los conceptos de lógica y algoritmos tra
 1. Asegúrate de tener instalado **Python 3.12+** y **Git**.
 2. Clona el repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/GabZac/Actividad-1-Revision-Integral.git
+   git clone https://github.com/Ailuna77/calculadoraedad.git
    ```
 3. Instala **Flask** desde la terminal de tu editor de código (ej. VSCode):
    ```bash
